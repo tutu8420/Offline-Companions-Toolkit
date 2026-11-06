@@ -1,0 +1,10 @@
+{
+  "name": "Offline_Companions_Toolkit",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/tutu8420/Offline-Companions-Toolkit",
+  "description": "Loot filter, roster overlay and ground sweep for Offline Companions Reborn: whitelist-only pickups, live companion status, and pickup of items the mod ignores.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360",
+    "Maddhattr-Offline_Companions_Reborn-1.5.8"
+  ]
+}
